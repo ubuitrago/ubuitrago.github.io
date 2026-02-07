@@ -1,3 +1,4 @@
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 assets/compressed-headshot.jpg !filter !diff !merge text=auto
+assets/matrix-wallpaper.jpg !filter !diff !merge text=auto
